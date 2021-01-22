@@ -11,6 +11,16 @@
 
         a = 5
 
+    La convención en ruby es variables en minusculas y el underscord para separar las palabras
+
+        edad_niño
+        busqueda
+        distancia_objeto
+
+    Para identificar el tipo de variable utilizamos class por ejemplo
+
+        a.class
+        la salida seria: integer
 # Todo es un objeto
 
     En ruby todo es un objeto, por lo tanto al digitar
