@@ -5,11 +5,11 @@
 
         letras = [ ""q"", ""w"", ""e"", ""r"", ""t"", ""y""]
 
-    Algo interesante de Ruby es que podemos utilizar números negativos para acceder a las posiciones desde el último elemento
-    del array.
+    Algo interesante de Ruby es que podemos utilizar números negativos para acceder a las posiciones desde el último
+    elemento del array.
 
-    Los arreglos en Ruby no tienen un tipo específico, esto quiere decir que dentro de un array podemos tener diferentes tipos
-    de datos en cada elemento.
+    Los arreglos en Ruby no tienen un tipo específico, esto quiere decir que dentro de un array podemos tener diferentes
+    tipos de datos en cada elemento.
 
     para acceder a los elementos de un array se hace colocando [] por ejemplo:
 
@@ -35,7 +35,8 @@
 
     “Hola Mundo”.split(" ") (Nos retorna un arreglo con la cadena dentro separada por el elemento dentro del paréntesis)
 
-    [“a”, “b” ,“c”].join("-") (Retorna los elementos de una matriz en una cadena separada por el elemento dentro del paréntesis)
+    [“a”, “b” ,“c”].join("-") (Retorna los elementos de una matriz en una cadena separada por el elemento dentro del
+                               paréntesis)
 
     letras.sort (Nos retorna una copia ordenada del arreglo)
 
