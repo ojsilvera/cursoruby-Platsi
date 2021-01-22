@@ -12,7 +12,7 @@
         a = %q(texto)
         a = %q(Texto)
 
-    ## Interpolacion de variables
+## Interpolacion de variables
 
         para interpolar variables en cadenas de texto en ruby se coloca la variable al interioro de #{}
         ha tener en cuenta siempre entre "" o %Q(), sino se desactiva la interpolacion.
@@ -23,7 +23,7 @@
             b = "este es mi #{mascota}"
             en la salida obtenemos "este es mi gato"
 
-    ## Metodos utilitarios
+## Metodos utilitarios
 
         “hola”.upcase (Devuelve una copia de la cadena en mayúsculas)
 
@@ -45,7 +45,7 @@
 
         gsub! (Para modificar la variable en ves de devolver una copia)
 
-    ## Concatenacion
+## Concatenacion
 
         Nos permite adicionar dos o mas cadenas de caracteres en una.
 
